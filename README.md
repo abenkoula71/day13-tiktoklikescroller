@@ -1,6 +1,6 @@
 # Day13_tiktoklikescroller_flutter
 
-This package provides an easy implementation of a Slider Button to cancel current transaction or screen. Highly customizable iphone alike looking widget
+A vertical fullscreen scroll implementation that snaps in place, similar to the TikTok app.
 
 # 1-Add the  tiktoklikescroller dependency in your pubspec.yaml file.
 
