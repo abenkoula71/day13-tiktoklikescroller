@@ -6,7 +6,7 @@ This package provides an easy implementation of a Slider Button to cancel curren
 
 ```
 dependencies:
-  slider_button: ^2.0.0
+  tiktoklikescroller: ^0.2.3
 ```
 
 # 2-Import the  slider_button package in your dart file.
