@@ -12,7 +12,7 @@ dependencies:
 # 2-Import the  slider_button package in your dart file.
 
 ```
-import 'package:slider_button/slider_button.dart';
+import 'package:tiktoklikescroller/tiktoklikescroller.dart';
 ```
 
 # 3-use him like this
