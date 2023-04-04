@@ -1,5 +1,6 @@
 # Day13_tiktoklikescroller_flutter
 
+
 A vertical fullscreen scroll implementation that snaps in place, similar to the TikTok app.
 
 # 1-Add the  tiktoklikescroller dependency in your pubspec.yaml file.
