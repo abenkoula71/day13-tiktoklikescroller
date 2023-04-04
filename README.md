@@ -1,4 +1,4 @@
-# Day13_slider_button_flutter
+# Day13_tiktoklikescroller_flutter
 
 This package provides an easy implementation of a Slider Button to cancel current transaction or screen. Highly customizable iphone alike looking widget
 
