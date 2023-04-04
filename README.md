@@ -9,7 +9,7 @@ dependencies:
   tiktoklikescroller: ^0.2.3
 ```
 
-# 2-Import the  slider_button package in your dart file.
+# 2-Import the  tiktoklikescroller package in your dart file.
 
 ```
 import 'package:tiktoklikescroller/tiktoklikescroller.dart';
